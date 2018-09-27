@@ -15,7 +15,7 @@ public class Main {
 
         if (r * r >= (a * a + b * b) / 4)
         {
-            System.out.println("Круг закрыл прямоуголтник");
+            System.out.println("Круг закрыл прямоугольник");
         }else{
             System.out.println("Круг не закрыл прямоугольник");
 
